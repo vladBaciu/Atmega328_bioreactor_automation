@@ -1,8 +1,8 @@
 /*
  * bmp180.c
  *
- * Created: 9/12/2018 1:20:49 PM
- *  Author: Parvan Catalin
+ * Created: 9/11/2018 1:00:49 PM
+ *  Author: Baciu Vlad
  */ 
 #define F_CPU 16000000UL
 #define BAUD 9600
