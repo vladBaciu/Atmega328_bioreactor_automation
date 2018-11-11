@@ -1,10 +1,9 @@
 /*
- * bmp180.h
+ * bmp180.c
  *
- * Created: 9/12/2018 1:21:06 PM
- *  Author: Parvan Catalin
+ * Created: 9/11/2018 1:00:49 PM
+ *  Author: Baciu Vlad
  */ 
-
 
 #ifndef BMP180_H_
 #define BMP180_H_
